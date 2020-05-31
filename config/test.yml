@@ -10,5 +10,5 @@ eureka:
     service-url:
       defaultZone: http://node1:8100/eureka/
 data:
-  message: abc
+  message: bcd
       
